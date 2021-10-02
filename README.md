@@ -1,5 +1,7 @@
 # Fetch Random Jokes
 
+<img src="https://user-images.githubusercontent.com/9924643/135705909-3a512699-12b4-489a-82c4-0e9d3c1dcfdc.gif" width="50%" />
+
 ## Setup
 
 1. Fork This Repository
